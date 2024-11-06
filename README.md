@@ -11,4 +11,5 @@ You can follow my media profiles if you want to know more about me, or just simp
 
 This game is an open-source game, which means you can edit, share, or remake the game! (just don't claim that this is 100% your work)
 Feel free to contact me through my social media above!
+
 Sincerely, Sam.
