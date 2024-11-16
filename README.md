@@ -9,7 +9,7 @@ You can follow my media profiles if you want to know more about me, or just simp
 - Instagram: https://www.instagram.com/jstsams?igsh=dGRtdnBkejZleDEy
 - Quora: https://id.quora.com/profile/Samudra-Azriel-Pradana?ch=10&oid=1688574756&share=596bdd89&srid=hOgEDG&target_type=user
 
-This game is an open-source game, which means you can edit, share, or remake the game! (just don't claim that this is 100% your work)
-Feel free to contact me through my social media above!
+This game is open, which means you can modify any aspect of this game! 
+If you have any suggestions on your mind, feel free to tell me through Instagram, or any other social media! 
 
 Sincerely, Sam.
