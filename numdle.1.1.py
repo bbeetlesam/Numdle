@@ -1,3 +1,8 @@
+# This game is created fully in Python with Pygame module.
+# Also, this is my first game project using "real" programming languages (since I've made some games in Fancade within the name "Sams"), so I'm sorry if the code is so messy and unsorted. T_T
+# I use some external assets that are free-to-use, so I concern there will be no problems by using them.
+# This game still have some things to fix, so stay tune with the updates.
+
 import pygame, random, math, webbrowser, os, sys, pickle
 
 pygame.init()
@@ -1023,6 +1028,4 @@ while game_loop:
 pygame.quit()
 
 # WIP:
-# - atur animasi message saat game game_ends
-# semangat!! 99% done
-# pyinstaller --noconsole --add-data "assets;assets" --onefile numdle.py
+# - Set the animation for end-message
